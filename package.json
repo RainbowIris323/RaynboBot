@@ -1,0 +1,21 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@napi-rs/canvas": "^0.1.30",
+    "@types/node": "^18.0.6",
+    "discord.js": "^14.7.1",
+    "node-fetch": "^3.2.6",
+    "sequelize": "^6.26.0",
+    "sqlite3": "^5.1.2",
+    "undici": "^5.13.0"
+  }
+}

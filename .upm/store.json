@@ -1,0 +1,1 @@
+{"version":2,"languages":{"nodejs-npm":{"specfileHash":"c3dc206d61b2f32a5a0d49cd93e9af78","lockfileHash":"f8eafa87eb4ab9d87096c418f943b42b","guessedImports":["discord.js","@napi-rs/canvas","undici","sequelize"],"guessedImportsHash":"1a231b1a75fb9a14d93326b4ce3287c1"}}}
